@@ -1,0 +1,41 @@
+{
+  "o_pos": null,
+  "b_pos": null,
+  "c_pos": null,
+  "d_pos": null,
+  "a_pos": null,
+  "o_rel_b": null,
+  "o_hold_lognorm": [
+    0.23388026603394055,
+    0,
+    0.10138526680145796
+  ],
+  "o_short_gap_lognorm": [
+    0.46793992988344213,
+    0,
+    0.804651631088805
+  ],
+  "o_long_gap_lognorm": [
+    0.32874298933134005,
+    0,
+    2.038477437313508
+  ],
+  "a_hold_lognorm": [
+    0.12,
+    0,
+    0.08
+  ],
+  "a_gap_lognorm": [
+    0.4,
+    0,
+    0.4
+  ],
+  "a_burst_counts": [
+    4,
+    7,
+    12
+  ],
+  "interval_mean": 218.5,
+  "interval_std": 0.4,
+  "misclick_variants": []
+}
